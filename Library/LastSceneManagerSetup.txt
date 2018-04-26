@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/O'Connor/Downloads/shooter 3d/shooter 3d/shooter/Assets/level01.unity
+  isLoaded: 1
+  isActive: 1
